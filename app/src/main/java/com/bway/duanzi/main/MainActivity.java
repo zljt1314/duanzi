@@ -7,11 +7,6 @@ import com.bway.duanzi.R;
 
 public class MainActivity extends AppCompatActivity {
 
-    //ddd
-    //lijintao
-    //李开虎
-    //李开虎
-    //ddd
 
 
     @Override
@@ -19,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        ////
-       
+
     }
 }
