@@ -1,4 +1,5 @@
 package com.bway.duanzi.view.activity;
+package com.bway.duanzi.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
