@@ -5,7 +5,12 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+<<<<<<< HEAD
     //李开虎
+=======
+    //ddd
+    //
+>>>>>>> lijintao
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
