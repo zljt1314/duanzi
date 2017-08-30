@@ -9,7 +9,6 @@ public class MainActivity extends AppCompatActivity {
     //李开虎
 =======
     //ddd
-    //
 >>>>>>> lijintao
     @Override
     protected void onCreate(Bundle savedInstanceState) {
