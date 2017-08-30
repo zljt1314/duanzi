@@ -6,9 +6,15 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     //李开虎
 =======
     //ddd
+>>>>>>> lijintao
+=======
+    //ddd
+    //lijintao
+    //李开虎
 >>>>>>> lijintao
     @Override
     protected void onCreate(Bundle savedInstanceState) {
